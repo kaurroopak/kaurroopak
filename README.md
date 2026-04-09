@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Roopakjeet+Kaur;AI+%2F+ML+Enthusiast;Problem+Solver;Learning+by+Building..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=900&color=FF6F61&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Roopakjeet+Kaur;AI+%2F+ML+Enthusiast;Problem+Solver;Learning+by+Building..." alt="Typing SVG" />
   </a>
 
 </div>
@@ -14,8 +14,8 @@
   <blockquote>
     Computer Science student with a growing interest in AI & Machine Learning.<br />
     I believe in learning by building—exploring ML concepts through real projects.<br />
-    Strong foundation in problem solving and constantly improving my skills.<br />
-    Still learning. Always building 🚀
+    Passionate about teamwork, leadership, and turning ideas into action.<br />
+    Continuously improving through consistency, time management, and hands-on experience. 🚀
   </blockquote>
 </div>
 
